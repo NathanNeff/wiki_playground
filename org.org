@@ -6,3 +6,8 @@
     </body>
 </html>
 #+END_SRC
+
+#+BEGIN_SRC python
+import os
+i = i + 1
+#+END_SRC
