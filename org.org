@@ -14,9 +14,23 @@ import os
 i = i + 1
 #+END_SRC
 
+===
     try to have some monospace
-    
+=== 
     
         text
         
 huh
+
+=this is mono=
+
+foo
+---
+
+:     this is some indented
+:     monospace stuff
+
+
+`what does this do`
+
+~what does tilde do~
